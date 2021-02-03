@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pseudocode
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://qe.github.io
+  * I am pseudocode (https://keybase.io/pseudocode) on keybase.
+  * I have a public key ASDqB-un2lO5bQVGD_bw1JKVp1F0B3XsI1sBoMbYOCRHzwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ea07eba7da53b96d05460ff6f0d49295a751740775ec235b01a0c6d8382447cf0a",
+      "host": "keybase.io",
+      "kid": "0120ea07eba7da53b96d05460ff6f0d49295a751740775ec235b01a0c6d8382447cf0a",
+      "uid": "658df53ca0dbeafbb934d5252d38ea19",
+      "username": "pseudocode"
+    },
+    "merkle_root": {
+      "ctime": 1612311436,
+      "hash": "6963d257585228a6fa421b975fcf87d33399c848d88ea7d8ef1c4967f8255476a31e8007b11d469b56c217f33d776d3a88c3540222035bf90ae34300415b9f52",
+      "hash_meta": "977ed433281f112b51d55c3c56a8c1583c86a340cca812a5ffc0582062c62485",
+      "seqno": 18992808
+    },
+    "service": {
+      "entropy": "AxAPSFLf/YOm21YNlK5G5bT+",
+      "hostname": "qe.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1612311449,
+  "expire_in": 504576000,
+  "prev": "dc17f86ca8d88161fd1eab342e41189b355f8a74955d4cef7cc9c43316ad5b2e",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6gfrp9pTuW0FRg/28NSSladRdAd17CNbAaDG2DgkR88Kp3BheWxvYWTESpcCBcQg3Bf4bKjYgWH9Hqs0LkEYmzVfinSVXUzvfMnEMxatWy7EIBU4Vpw44r2jCTT0JBgzU0CEtegB3FwvzzltpucimX7bAgHCo3NpZ8RAZueGhNMga/uR1mgneR7anyFGIfYzaNYmeVvZ9T/V9QaEB9HEipjwjPzEy2EYxN0r5uKOUUqTyvMIBr5jcdjcBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOZAeDbNdlGQvJU4B/hEHnLfSWIJaQ1gbLwEigDQZ/LZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pseudocode
+
+==================================================================
