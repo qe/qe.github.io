@@ -202,11 +202,11 @@ svg:not(:root) {
 
 .googlemap {
 	border: 0;
-	height: 300%;
+	height: 50%;
 	left: 0;
 	position: absolute;
 	top: 0;
-	width: 300%;
+	width: 50%;
 }
 
 /* Grouping content
