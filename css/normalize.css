@@ -197,7 +197,6 @@ svg:not(:root) {
 .container {
 	/** height: 0; PERU */
 	overflow: hidden;
-	padding-bottom: 60%; /* desired aspect ratio */
 	position: relative;
 }
 
